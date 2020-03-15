@@ -17,9 +17,9 @@ Lecture 1:Intro to Deep Learning
 
 Lecture 2:Deep Sequence Modeling
 
-Lecture 3:Deep Computer Vision
+- Lecture 3:Deep Computer Vision
 
-Lecture 4:Deep Generative Modeling
+- Lecture 4:Deep Generative Modeling
 
 Lecture 5:Deep Reinforcement Learning
 
